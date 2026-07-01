@@ -48,7 +48,7 @@ src/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/cadastro-de-pessoas.git
+git clone https://github.com/medeirosalves/cadastro-de-pessoas.git
 ```
 
 2. Abra o projeto em sua IDE de preferência (IntelliJ IDEA, Eclipse ou VS Code).
